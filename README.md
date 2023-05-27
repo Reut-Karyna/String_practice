@@ -1,5 +1,5 @@
 # String_practice
-
+  
 This code is used to process and display information about highlighted poems. Let's go through each part of the code to understand its functionality:
 
 highlighted_poems: This is a string that contains information about the highlighted poems. Each poem entry is separated by a comma, and within each entry, the title, poet's name, and publication date are separated by colons.
